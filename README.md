@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/luvis-joston-j-356806323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
       <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" style="margin: 10px; box-shadow: 0px 4px 12px rgba(10, 102, 194, 0.6); transition: transform 0.2s ease-in-out;">
     </a>
-    <a href="https://twitter.com/jztchl" target="_blank">
+    <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(29, 161, 242, 0.6); transition: transform 0.2s ease-in-out;">
     </a>
   </p>
