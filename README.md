@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center" style="font-size: 48px; font-weight: bold; color:#f39c12; font-family: 'Poppins', sans-serif; text-shadow: 3px 3px 10px rgba(0,0,0,0.3);">
-  Hi, I am <span style="color:#3498db;">LUVIS JOSTON J</span> 👋
+  Hi, I am <span style="color:red;">LUVIS JOSTON J</span> 👋
 </p>
 
 
