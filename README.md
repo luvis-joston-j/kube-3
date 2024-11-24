@@ -1,26 +1,5 @@
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title sytle="color:green">NOOB DEVELOPER</title>
-    <style>
-        /* Basic CSS styling */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-image: url(https://www.hdwallpapers.in/download/red_blue_smoke_white_background_4k_5k_hd_abstract-HD.jpg) ;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            text-align: center;
-        }
-   </style>
-</head>
-<body>
-    <div align="center">
+
+   <div align="center">
         <p align="center" style="font-size: 48px; font-weight: bold; color:#f39c12; font-family: 'Poppins', sans-serif; text-shadow: 3px 3px 10px rgba(0,0,0,0.3);">
           Hi, I am <span style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color:white;text-shadow:black 5px 5px 5px;">LUVIS JOSTON J</span> 👋
         </p>
