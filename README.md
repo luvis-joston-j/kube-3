@@ -32,7 +32,7 @@
           <p style="margin-top: 30px;">
             <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 10px; box-shadow: 0px 4px 12px rgba(55, 118, 171, 0.6); transition: transform 0.2s ease-in-out;">
             <img width="100" height="60" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" style="margin: 10px; box-shadow: 0px 4px 12px rgba(9, 46, 32, 0.6); transition: transform 0.2s ease-in-out;">
-            <img width="100" height="50" src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Logo.png" alt="jenkins" style="margin: 10px; box-shadow: 0px 4px 12px rgba(9, 46, 32, 0.6); transition: transform 0.2s ease-in-out;">
+            <img width="100" height="50" src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Logo.png" alt="jenkins" style="margin: 10px;background-color:white; box-shadow: 0px 4px 12px rgba(9, 46, 32, 0.6); transition: transform 0.2s ease-in-out;">
             <img  width="90" height="60" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="github" style="margin: 10px; box-shadow: 0px 4px 12px rgba(255, 69, 0, 0.6); transition: transform 0.2s ease-in-out;">
             <img width="90" height="60" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png" alt="docker" style="margin: 10px; box-shadow: 0px 4px 12px rgba(247, 223, 30, 0.6); transition: transform 0.2s ease-in-out;">
             <img width="90" height="60" src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" alt="terraform" style="margin: 10px; box-shadow: 0px 4px 12px rgba(0, 59, 87, 0.6); transition: transform 0.2s ease-in-out;">
